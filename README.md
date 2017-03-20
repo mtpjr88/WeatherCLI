@@ -7,6 +7,8 @@ This is a node js application.
 Must have node js installed to run.
 
 I used 'Open Weather Map' API.
+"Yargs" a library for Node.js an awesome tool for CLI
+"Request.js"
 
 
 To Use:

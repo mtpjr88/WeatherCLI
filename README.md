@@ -1,6 +1,6 @@
 # Weather Application CLI
 
-This will display the temperature of the location you type. If no location is entered it will determine locatoin based on IP address.
+This CLI Application will display the temperature of the location you type. If no location is entered it will determine locatoin based on IP address.
 
 This is a node js application.
 
